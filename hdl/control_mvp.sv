@@ -38,7 +38,7 @@
 //                                                                            //
 ////////////////////////////////////////////////////////////////////////////////
 
-
+`include "defs_div_sqrt_mvp.sv"
 module control_mvp
   import defs_div_sqrt_mvp::*;
 
